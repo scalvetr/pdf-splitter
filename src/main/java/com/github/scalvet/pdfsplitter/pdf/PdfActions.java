@@ -1,4 +1,4 @@
-package pdfsplitter.pdf;
+package com.github.scalvet.pdfsplitter.pdf;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package pdfsplitter.pdf;
+package com.github.scalvet.pdfsplitter.pdf;
 
 public class PdfException extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package pdfsplitter;
+package com.github.scalvet.pdfsplitter;
 
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;

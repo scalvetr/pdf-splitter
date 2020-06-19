@@ -1,4 +1,4 @@
-package pdfsplitter;
+package com.github.scalvet.pdfsplitter;
 
 import java.awt.BorderLayout;
 import java.awt.Insets;
@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
-import pdfsplitter.pdf.PdfActions;
+import com.github.scalvet.pdfsplitter.pdf.PdfActions;
 
 /*
  * FileChooserDemo.java uses these files:
